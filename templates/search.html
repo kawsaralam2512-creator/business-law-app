@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="chapter-header">
+    <h1>Search Results</h1>
+    <p>Showing results for: <strong>"{{ query }}"</strong></p>
+</div>
+
+{% if results %}
+    <div class="sections-list">
+        {% for item in results %}
+        <!-- লিংকটি সঠিকভাবে চ্যাপ্টার এবং সেকশন আইডি (Anchor) এর সাথে যুক্ত করা হয়েছে -->
+        <a href="/chapter/{{ item.chapter_slug }}#section-{{ item.section_id }}" class="section-card search-result-card" style="text-decoration: none; color: inherit; display: block;">
+            <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+                <i class="fa-solid fa-file-lines" style="color: var(--primary-color);"></i>
+                <span style="font-size: 0.8rem; background: #e0f2f1; color: var(--primary-color); padding: 4px 8px; border-radius: 4px; font-weight: 600;">
+                    {{ item.chapter_title }}
+                </span>
+            </div>
+            <h3 style="font-size: 1.1rem; color: var(--text-main); margin-bottom: 8px;">
+                {{ item.heading }}
+            </h3>
+            <p style="font-size: 0.9rem; color: var(--text-muted); line-height: 1.5;">
+                {{ item.snippet }}
+            </p>
+        </a>
+        {% endfor %}
+    </div>
+{% else %}
+    <div class="section-card" style="text-align: center; padding: 3rem 1rem;">
+        <i class="fa-solid fa-magnifying-glass" style="font-size: 3rem; color: var(--border-color); margin-bottom: 1rem;"></i>
+        <h2 style="color: var(--text-main); margin-bottom: 0.5rem;">No results found</h2>
+        <p style="color: var(--text-muted);">We couldn't find anything matching "{{ query }}". Try different keywords.</p>
+    </div>
+{% endif %}
+{% endblock %}

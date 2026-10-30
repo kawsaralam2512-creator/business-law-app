@@ -1,0 +1,39 @@
+{
+  "app_name": "Business Law Study App",
+  "version": "1.0.0",
+  "developer": "Kawsar Alam",
+  "chapters": [
+    {
+      "id": 1,
+      "slug": "companies-act-1994",
+      "title": "The Companies Act, 1994",
+      "subtitle": "Formation, types, memorandum, prospectus & directors",
+      "icon": "🏢",
+      "color": "#2e7d32"
+    },
+    {
+      "id": 2,
+      "slug": "negotiable-instruments-act-1881",
+      "title": "The Negotiable Instruments Act, 1881",
+      "subtitle": "Promissory notes, bills of exchange, cheques & dishonour",
+      "icon": "📜",
+      "color": "#1565c0"
+    },
+    {
+      "id": 3,
+      "slug": "partnership-act-1932",
+      "title": "The Partnership Act, 1932",
+      "subtitle": "Formation, rights, liabilities & dissolution",
+      "icon": "🤝",
+      "color": "#e65100"
+    },
+    {
+      "id": 4,
+      "slug": "contract-act-sale-of-goods",
+      "title": "Contract Act, 1872 & Sale of Goods Act, 1930",
+      "subtitle": "Proposals, acceptance, consideration, agency & sale contracts",
+      "icon": "⚖️",
+      "color": "#6a1b9a"
+    }
+  ]
+}

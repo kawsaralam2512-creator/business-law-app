@@ -1,0 +1,400 @@
+{
+  "chapter_id": 3,
+  "title": "The Partnership Act, 1932 Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "To start a partnership business, what should be the minimum number of partners?",
+      "options": ["2", "10", "4", "20"],
+      "correct_answer": 0
+    },
+    {
+      "id": 2,
+      "question": "What type of agreement is used to form a partnership business?",
+      "options": ["Written agreement", "Oral agreement", "Written or oral agreement", "None of them"],
+      "correct_answer": 2
+    },
+    {
+      "id": 3,
+      "question": "In partnership, partners liabilities are",
+      "options": ["Unlimited", "Limited to the capital of the business", "Limited", "Both A and C"],
+      "correct_answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Is a partnership firm examined as an individual a legal entity?",
+      "options": ["No", "Yes", "Partially Yes"],
+      "correct_answer": 0
+    },
+    {
+      "id": 5,
+      "question": "What is interest on drawings?",
+      "options": ["Credited to partner's current a/c", "Not shown in current account", "Debited to partner's current a/c", "None of the above"],
+      "correct_answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the partnership written agreement known as?",
+      "options": ["Partnership contract", "Agreement", "Partnership deed", "Partnership Act"],
+      "correct_answer": 2
+    },
+    {
+      "id": 7,
+      "question": "No partnership agreement, what will be the percentage of profit sharing ratio between them?",
+      "options": ["Unequal", "Equal", "It will depend on the experience of a partner", "It will depend on a partner's capital"],
+      "correct_answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which is not a feature of a partnership business?",
+      "options": ["Ease of formation", "Limited liability", "Limited life", "Mutual agency"],
+      "correct_answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which kind of partnership one partner has unlimited liability and other partner have limited liability?",
+      "options": ["Partnership-at-will", "Limited partnership", "General partnership", "Particular partnership"],
+      "correct_answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which types of partnership have no agreement in terms of the duration of partnership?",
+      "options": ["Partnership-at-will", "Limited partnership", "General partnership", "Particular partnership"],
+      "correct_answer": 0
+    },
+    {
+      "id": 11,
+      "question": "Partnership is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all.",
+      "options": ["True", "False"],
+      "correct_answer": 0
+    },
+    {
+      "id": 12,
+      "question": "Firm and partners - Persons who have entered into partnership with one another are called individually \"partners\" and collectively \"a firm\" and the name under which their business is carried on is called the \"firm name\".",
+      "options": ["The above definition is correct", "The above definition is incorrect"],
+      "correct_answer": 0
+    },
+    {
+      "id": 13,
+      "question": "Act of firm - An act of firm means any act or omission by all the partners, or by any partner or agent of the firm which gives rise to a right enforceable by or against the firm.",
+      "options": ["The above definition is incorrect", "The above definition is correct"],
+      "correct_answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Essential elements of a partnership include: I. Association of two or more persons II. Agreement III. Sharing of profit IV. Business V. Mutual agency",
+      "options": ["All of the above", "(I) and (III) only", "(I) (IV) and (V) only", "None"],
+      "correct_answer": 0
+    },
+    {
+      "id": 15,
+      "question": "All of the following are correct EXCEPT:",
+      "options": [
+        "The partnership is an association between two or more persons and all persons must be competent to contract.",
+        "There can be no partnership consisting of a single individual.",
+        "The partnership Act 1932 limits the number of partners to 50.",
+        "If the number gets reduced to one, for any reason, it ceases to be a partnership."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 16,
+      "question": "The written agreement is known as:",
+      "options": ["Memorandum of Association", "Articles of Association", "Partnership deed", "None"],
+      "correct_answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Partnership arises from:",
+      "options": ["Joint Family Business", "Operation of law inheritance", "Succession", "None"],
+      "correct_answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Identify from the following what a partnership deed usually sets out:",
+      "options": [
+        "Firm name, Place or principal place of business of the firm, Number of partners",
+        "The date when each partner joined the firm, Purpose of the partnership",
+        "Rights and duties of the partners, Duration of partnership",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 19,
+      "question": "If the partnership agreement does not specify what the rights or duties of the partners should be in particular circumstances, the rules set out in the Partnership Act 1932 are assumed to apply.",
+      "options": ["True", "False"],
+      "correct_answer": 0
+    },
+    {
+      "id": 20,
+      "question": "All of the following are correct EXCEPT:",
+      "options": [
+        "To constitute a partnership, the parties must have agreed to carry on a business.",
+        "An agreement to carry on business at a future time does not result in partnership unless that time arrives and the business is commenced.",
+        "If the purpose is to carry on some charitable work it will not be a partnership.",
+        "None"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 21,
+      "question": "A partner may not share in the losses of the business, yet his liability towards outsiders shall be unlimited.",
+      "options": ["False", "True"],
+      "correct_answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Identify from the following the circumstances where a person receiving profits is not necessarily a partner:",
+      "options": [
+        "Lender of money to persons engaged or about to engage in any business",
+        "Servant or agent as remuneration",
+        "Widow or child of a deceased partner as annuity",
+        "A minor who is admitted to the benefits of an existing partnership",
+        "All of the above"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 23,
+      "question": "All of the following are correct EXCEPT:",
+      "options": [
+        "A partnership does not have a legal personality. It is not a legal person.",
+        "A third party entering into business transaction with a partnership do have a contractual agreement with the \"partnership\".",
+        "Partners in a partnership do not have limited liability, and are personally liable for any liabilities of the partnership business that the partnership cannot pay.",
+        "None"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What things to consider in determining whether a group of persons is or is not a firm",
+      "options": [
+        "Association of two or more persons",
+        "Agreement and Carrying on business",
+        "Sharing of profits",
+        "Mutual agency",
+        "All of the above"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is Type of partnership?",
+      "options": ["Partnership-at-will", "Particular partnership", "Both A&B", "None"],
+      "correct_answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is true for \"Partnership- at- will\"?",
+      "options": [
+        "No provision is made between the partners for the duration of their partnership, or for the determination of their partnership.",
+        "Any partner is free to dissolve the partnership by giving a notice in writing to all other partners of his intention to dissolve the firm.",
+        "If freedom to dissolve the firm at will is curtailed by agreement, only then will it not constitute a partnership at will.",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is true for \"Particular partnership\"?",
+      "options": [
+        "A partnership created for any particular adventure or undertaking or for a specific time period.",
+        "If the partners decide to continue partnership even after the expiry of the specific period or completion of specific venture then it becomes partnership at will.",
+        "Both A&B",
+        "None"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Types of partners are: I. Actual or ostensible partner II. Sleeping or dormant partner III. Nominal partner IV. Partner in profits only V. Sub- partner VI. Silent partner VII. Partner by estoppel or holding out",
+      "options": ["All of the above", "(I) (IV) and (VII) only", "(III) (V) and (VII) only", "None"],
+      "correct_answer": 0
+    },
+    {
+      "id": 29,
+      "question": "Sleeping or dormant partner -",
+      "options": [
+        "A sleeping partner is not known as such as a partner to third parties dealing with the firm.",
+        "He may or may not take active part in the conduct of the business of the firm.",
+        "He is equally liable along with other partners for all the debts of the firm, even though his existence is kept a secret from the outsiders dealing with the firm.",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 30,
+      "question": "Nominal partner - A partner who does not contribute any capital or share in profits, but lends his name to the firm is called a nominal partner. He along with other partners is liable to the outsiders for all the debts of the firm.",
+      "options": ["True", "False"],
+      "correct_answer": 0
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is correct for a Partnership firm?",
+      "options": [
+        "It is created by an agreement alone and registration is optional.",
+        "A partner cannot transfer his interest without getting consent from other partners.",
+        "Minimum two competent to contract persons are required and a maximum of 20 persons can carry partnership other than banking business.",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 32,
+      "question": "General (mandatory) duties of partner include:",
+      "options": [
+        "To be just and faithful",
+        "Carry on business to the greatest common advantage",
+        "Render true accounts",
+        "Indemnify for loss caused by fraud",
+        "All of the above"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 33,
+      "question": "What the \"Duty to be liable jointly and severally\" implies?",
+      "options": [
+        "The third party may take legal action for non-payment of a debt or losses incurred as a result of a breach of contract against all the partners jointly.",
+        "The third party may take legal action for non-payment of a debt or losses incurred as a result of a breach of contract against any individual partner.",
+        "Option A or B",
+        "None"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Every partner is bound to act within the scope of his actual or apparent authority. Where he exceeds the authority conferred on him and the firm suffers a loss shall have to compensate the firm for any such loss.",
+      "options": ["The firm", "All partners jointly and severally", "The defaulting partner", "None"],
+      "correct_answer": 2
+    },
+    {
+      "id": 35,
+      "question": "In case of emergency a partner can even exceed his authority in order to save the firm from any loss",
+      "options": ["True", "False"],
+      "correct_answer": 0
+    },
+    {
+      "id": 36,
+      "question": "Qualified duties of partner include: I. Duty to attend diligently to his duties II. Duty to contribute to the losses III. Duty to indemnify for willful neglect IV. Duty to use firm's property exclusively for the firm V. Duty to account for personal profits derived VI. Duty not to compete with the business of the firm VII. Duty not to assign his interest",
+      "options": ["(I) (II) and (V) only", "(III) (IV) and (VII) only", "All of the above", "None"],
+      "correct_answer": 2
+    },
+    {
+      "id": 37,
+      "question": "A partner is not entitled to receive remuneration for taking part in the conduct of the business.",
+      "options": ["True", "False"],
+      "correct_answer": 0
+    },
+    {
+      "id": 38,
+      "question": "Where a partner competes in business with the partnership, without the consent of the other partners:",
+      "options": [
+        "He can retain all the profits derived",
+        "He is liable to account to the partnership for all the profits",
+        "He disqualifies as a partner",
+        "None"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Rights of partner include: I. Right to take part in the conduct of the business II. Right to be consulted III. Right to have access to the books IV. Right to share the profits V. Right to interest on capital VI. Right to indemnity",
+      "options": ["All of the above", "(I) (III) and (VI) only", "(I) (IV) and (V) only", "None"],
+      "correct_answer": 0
+    },
+    {
+      "id": 40,
+      "question": "In the absence of a contract to the contrary every partner has a right to share profits earned by the firm.",
+      "options": ["In proportion to their capital", "Equally", "Both A&B", "None"],
+      "correct_answer": 1
+    },
+    {
+      "id": 41,
+      "question": "No partner is allowed to receive any interest on capital as a general rule because a partner is not a creditor of the firm. Interest on capital is allowed only when agreed among the partners.",
+      "options": ["The above statement is incorrect", "The above statement is correct"],
+      "correct_answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Where a partner makes for the purpose of the business, any payment or advance beyond the amount of capital he has agreed to subscribe, he is entitled to interest on it at the rate of or as agreed upon.",
+      "options": ["6% semi-annually", "6% per annum", "6% quarterly", "None"],
+      "correct_answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Every partner has a right to claim indemnity from the firm in respect of payments made or liabilities incurred by him:",
+      "options": [
+        "In the ordinary and proper conduct of the business.",
+        "In doing such act, in an emergency, for the purpose of protecting the firm from loss",
+        "Both A&B",
+        "None"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 44,
+      "question": "A partner has a right to retire:",
+      "options": [
+        "With the consent of all the partners",
+        "In accordance with an express agreement between the parties",
+        "Where the partnership is at will, by giving notice in writing to all the other partners of his intention to retire.",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 45,
+      "question": "The legal representative of the deceased partner or the outgoing partner, is entitled at his option to:",
+      "options": [
+        "Such share of the profits as in proportionate to his share in the property of the firm",
+        "Interest at the rate of 6% on the amount of his share in the property of the firm.",
+        "Both A&B",
+        "None"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Mutual Rights and Liabilities of partners include: I. Duty to work without remuneration II. Rights to share profits and losses equally III. Right to interest on capital IV. Rights to interest on subsequent advance V. Right to indemnity VI. Duty to indemnify for willful neglect",
+      "options": ["All of the above", "(II) (III) and (V) only", "(I) (II) and (VI) only", "None"],
+      "correct_answer": 0
+    },
+    {
+      "id": 47,
+      "question": "The property of the firm includes:",
+      "options": [
+        "All property originally brought into the common stock of the firm",
+        "All rights or interest in the property originally so brought",
+        "All property acquired, by purchase or otherwise, by or for the firm and all rights and interest in any property so acquired",
+        "Goodwill of the business of the firm",
+        "All of the above"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 48,
+      "question": "Any property purchased with partnership money without other partners consent will be deemed to be partnership property.",
+      "options": ["True", "False"],
+      "correct_answer": 0
+    },
+    {
+      "id": 49,
+      "question": "A partner is the agent of the firm for the purpose of the business of the firm. He has the capacity to bind the firm by his act. The authority of a partner may be:",
+      "options": ["Actual", "Implied", "Both A or B", "None"],
+      "correct_answer": 2
+    },
+    {
+      "id": 50,
+      "question": "Implied authority - The act of a partner done by him:",
+      "options": [
+        "As an agent of the firm",
+        "In the course of business of the firm",
+        "In the name of the firm, or in any other manner expressing an intention to bind the firm.",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "chapter_id": 1,
+  "title": "The Companies Act, 1994 Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the purpose of a prospectus?",
+      "options": [
+        "To advertise the company's products and services.",
+        "To outline the company's corporate social responsibility initiatives.",
+        "To provide information to potential investors about the company's shares or debentures.",
+        "To provide information about the company's board of directors."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the significance of the articles of association in recovering th formation expenses? They authorize the directors to repay the expenses",
+      "options": [
+        "They only apply as a contract between the company and the shareholder",
+        "They can be used to enforce a contract between the promoter and the company",
+        "They have no significance in the recovery of expenses",
+        "They authorize the directors to repay the expenses"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Is clear evidence of intention required for a company to be held liable for a contract made after its formation?",
+      "options": ["Sometimes", "Yes", "No", "It depends"],
+      "correct_answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Can the Registrar impose a penalty on a company and its officers for failing to comply with Section 81(1) of the Company Act, 1994 of Bangladesh?",
+      "options": [
+        "Yes, by issuing a warning letter",
+        "Yes, by imposing a fine",
+        "No, only the Court can impose a penalty",
+        "No, the company must be dissolved in such cases"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the minimum number of Directors required for a public company?",
+      "options": ["2", "3", "50", "7"],
+      "correct_answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which type of company is defined as a public company in the Companies Act?",
+      "options": [
+        "A company that limits the number of its members to 50",
+        "A company that prohibits public subscriptions for its shares",
+        "A company incorporated before the Companies Act, 1994"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is required to be included in the memorandum of a company limited by shares regarding the liability of members according to the Companies Act?",
+      "options": [
+        "The liability of members is partially limited",
+        "The liability of members is not specified",
+        "The liability of members is unlimited",
+        "The liability of members is limited"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Can stock be issued directly to the public?",
+      "options": [
+        "Depends on the type of shares",
+        "No",
+        "Depends on the company's articles of association",
+        "Yes"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Is written consent required from secured creditors of a public company prior to converting it into a private company?",
+      "options": [
+        "Only if the creditors agree",
+        "Yes",
+        "Only if the majority of creditors agree",
+        "No"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the maximum term of imprisonment that can be imposed for authorizing an issue of a prospectus that includes an untrue statement?",
+      "options": ["Two years", "Three years", "Four years", "One year"],
+      "correct_answer": 0
+    },
+    {
+      "id": 11,
+      "question": "What is the main purpose of a prospectus according to the Companies Act?",
+      "options": [
+        "To provide detailed information about the company's products and services.",
+        "To outline the company's social and environmental initiatives.",
+        "To provide information to the public about the company's financial position and the risks associated with investing in the company.",
+        "To outline the company's organizational structure."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What must a bearer of a share- warrant do to have their name entered in the register of members?",
+      "options": [
+        "Apply in writing to the directors with evidence of identity and pay the prescribed fee",
+        "Surrender the share- warrant for cancellation and pay the prescribed fee",
+        "Surrender the share- warrant for cancellation and pay the prescribed fee and stamp duty",
+        "Submit a transfer request to the company in accordance with the regulations"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 13,
+      "question": "How can the Memorandum of Association in a company be altered?",
+      "options": [
+        "By the company's creditors",
+        "By a majority vote of the members",
+        "Through informal discussions",
+        "By following certain formalities"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 14,
+      "question": "What is the main difference between a company and a partnership in terms of statutory obligations?",
+      "options": [
+        "Both have the same statutory obligations",
+        "Partnerships have more statutory obligations",
+        "Companies have more statutory obligations",
+        "Companies have no statutory obligations"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 15,
+      "question": "If a public company, having a share capital but not issuing a prospectus, wants to obtain the commencement certificate, what statement needs to be filed with the Registrar?",
+      "options": [
+        "Statement of Accounts",
+        "Declaration of Solvency",
+        "Declaration of Compliance",
+        "Statement in lieu of prospectus"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 16,
+      "question": "How are directors appointed in a public limited company, according to Section 91(1) of the Company Act, 1994?",
+      "options": [
+        "By the company's auditors.",
+        "By the members in general meeting.",
+        "By the government of Bangladesh.",
+        "By the Registrar of Joint Stock Companies and Firms."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Who can call an extraordinary general meeting of a company if the directors fail to call a meeting within 21 days from the date of deposit of the requisition, according to Section 84 of the Company Act, 1994 of Bangladesh?",
+      "options": [
+        "The auditors of the company",
+        "The shareholders holding at least 50% of the voting power",
+        "The requisitionists or a majority of them in value",
+        "The registrar of companies"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 18,
+      "question": "How can a holding company hold shares in another company according to the Companies Act?",
+      "options": [
+        "Directly",
+        "Through a nominee",
+        "Directly or through a nominee",
+        "By appointing the majority of the directors in that other company"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 19,
+      "question": "What is a private company according to section 2 (q) of the Companies Act, 1994?",
+      "options": [
+        "A company with no restrictions on share transfer and public invitation to subscribe for shares",
+        "A company with restrictions on share transfer, public invitation to subscribe for shares and limited number of members to 50",
+        "A company with more than 50 members",
+        "A company with unlimited liability"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 20,
+      "question": "A forfeited share may be sold or otherwise disposed of:",
+      "options": [
+        "Only after the company has obtained permission from the Securities and Exchange Commission",
+        "At any time before a sale or disposition",
+        "Only after the expiration of fourteen days from the date of the notice",
+        "After the payment required by the notice has been made"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What is the main characteristic of early companies as described in the origin of the term \"company\"?",
+      "options": [
+        "Attaining some common objectives with profit",
+        "Joint stock companies designed for profit",
+        "Undertaking works of public utility",
+        "Discussing business matters during festive gatherings"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 22,
+      "question": "Under what circumstances can a director's office be vacated according to the Companies Act of Bangladesh?",
+      "options": [
+        "If the director is related to any shareholder of the company",
+        "If the director is a minor",
+        "If the director is a foreign citizen",
+        "If the director accepts a loan or guarantee from the company in contravention of section 103"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 23,
+      "question": "Which type of entity is regulated by the Companies Act, 1994 and its subsequent amendments?",
+      "options": ["Company", "Sole Proprietorship", "Partnership"],
+      "correct_answer": 0
+    },
+    {
+      "id": 24,
+      "question": "According to the Company Act, 1994 of Bangladesh, who is responsible for managing the business of the company?",
+      "options": ["The shareholders", "The directors", "The auditors", "The company secretary"],
+      "correct_answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Can the directors pay all the expenses incurred in getting up and registering the company, as per the Company Act, 1994 of Bangladesh?",
+      "options": [
+        "No, they cannot pay any expenses",
+        "Yes, they can pay all expenses",
+        "They can pay only a part of the expenses",
+        "They can pay the expenses Only after approval from shareholders"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 26,
+      "question": "In an unlimited company, are past members liable for the debts incurred before they ceased to be members?",
+      "options": [
+        "Depends on the company's articles of association",
+        "Yes",
+        "Only if the company is wound up",
+        "No"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Do holders of stock have the same rights, privileges, and advantages as shareholders?",
+      "options": [
+        "No, they do not have the same rights, privileges, and advantages as shareholders",
+        "Yes, but only if approved by the Central Bank of Bangladesh",
+        "Yes. but only if approved by the Securities and Exchange Commission",
+        "Yes, they have the same rights, privileges, and advantages as shareholders"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 28,
+      "question": "What is the consequence if a company fails to file the notice of consolidation, conversion, or reconversion within 15 days of passing a resolution for the same?",
+      "options": [
+        "The shareholders will lose their rights",
+        "The company will be dissolved",
+        "The company will be barred from issuing new shares",
+        "The company and its officers will be liable to a fine"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 29,
+      "question": "What is the maximum term of imprisonment that can disqualify a person from serving as a director, according to the Company Act, 1994 of Bangladesh?",
+      "options": ["2 months", "4 months", "6 months", "8 months"],
+      "correct_answer": 2
+    },
+    {
+      "id": 30,
+      "question": "Can a member hold half of a share?",
+      "options": [
+        "Yes",
+        "No",
+        "Depends on the company's articles of association",
+        "Depends on the type of shares"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Mustafiz has purchased 100 shares in a company. What is the name for the total face value of these shares that the company is authorized to issue?",
+      "options": ["Registered capital", "Issued capital", "Debenture capital", "Nominal or authorized share capital"],
+      "correct_answer": 3
+    },
+    {
+      "id": 32,
+      "question": "What is the consequence of issuing a prospectus without delivering a copy to the Registrar?",
+      "options": [
+        "The prospectus will be deemed invalid and cannot be used for subscription.",
+        "The company will be sued by the Registrar for not following the regulation.",
+        "The company and everyone involved will be punished with a fine.",
+        "The company will need to submit the prospectus again for registration."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 33,
+      "question": "What is the purpose of having directors in a public company?",
+      "options": [
+        "To control the ownership of the company.",
+        "To manage the business of the company.",
+        "To increase the number of shareholders in the company.",
+        "To reduce the liability of the company."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Who is responsible for paying calls on jointly- held shares?",
+      "options": ["The company", "The directors", "The joint- holders jointly and severally", "Only one of the joint- holders"],
+      "correct_answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Can stock be issued directly to the public?",
+      "options": [
+        "Depends on the type of shares",
+        "No",
+        "Depends on the company's articles of association",
+        "Yes"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 36,
+      "question": "Are the retirement provisions applicable for a private limited company according to the Companies Act, 1994?",
+      "options": ["Yes", "No"],
+      "correct_answer": 1
+    },
+    {
+      "id": 37,
+      "question": "What is the effect of the death or insolvency of a member on the existence of a company?",
+      "options": [
+        "Depends on the length of existence of the company",
+        "Depends on the size of the company",
+        "Does not affect its existence",
+        "Comes to an end"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What is the maximum number of members a public company can have at the time of conversion to a private company?",
+      "options": ["75", "50", "400", "No Limit"],
+      "correct_answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Which form should be submitted to the Registrar along with the Memorandum of Association and the Articles of Association of a private company for the consent of directors to act?",
+      "options": ["Form IX", "Form VI", "Form X", "From IX"],
+      "correct_answer": 0
+    },
+    {
+      "id": 40,
+      "question": "Are regulations 79 to 87 of Schedule - I on retirement and rotation of directors' compulsory for inclusion in the articles of association of a private limited company according to the Companies Act 1994?",
+      "options": ["Yes", "No"],
+      "correct_answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Can the holders of stock transfer their stock in the same manner as shares?",
+      "options": [
+        "Yes, subject to the same regulations as shares",
+        "Yes, but only if approved by the Central Bank of Bangladesh",
+        "No, stock cannot be transferred",
+        "Yes, but only if approved by the Securities and Exchange Commission"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 42,
+      "question": "According to the Companies Act, 1994, which of the following companies is not considered a public company?",
+      "options": [
+        "A company with unlimited liability",
+        "A company incorporated under the Companies Act",
+        "A company that restricts the transfer of shares",
+        "A company that invites the public to subscribe for its shares"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 43,
+      "question": "What happens if there is a rule in the articles that contradicts the memorandum?",
+      "options": [
+        "The rule in the articles is ignored",
+        "The rule in the articles is considered void",
+        "The rule in the articles is considered valid",
+        "The rule in the articles is considered invalid"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 44,
+      "question": "Can a business engaged in production and processing of goods be considered an industrial undertaking?",
+      "options": [
+        "It depends on the goods being produced",
+        "No",
+        "Yes",
+        "It depends on the services being provided"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 45,
+      "question": "What are the municipalities in metropolitan city areas called in Bangladesh?",
+      "options": ["Private corporations", "Sector corporations", "City corporations", "Trading corporations"],
+      "correct_answer": 2
+    },
+    {
+      "id": 46,
+      "question": "What must a director do before being appointed as a director of a company, according to Section 93 of the Company Act, 1994?",
+      "options": [
+        "File a consent in writing with the Registrar of Joint Stock Companies and Firms.",
+        "Take qualification shares.",
+        "File a written proposal for directorship to the company.",
+        "Appoint an alternate director."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 47,
+      "question": "Can a company provide additional grounds for disqualification of a director, as per the Company Act, 1994 of Bangladesh?",
+      "options": [
+        "A company can provide additional grounds only with the approval of the Registrar of Joint Stock Companies and Firms",
+        "No, a company cannot provide additional grounds",
+        "Yes, a company can provide additional grounds",
+        "A company can provide additional grounds only with the approval of the Securities and Exchange Commission"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 48,
+      "question": "Can a private company invite the public to purchase its shares or debentures?",
+      "options": ["No", "Yes", "Depends on the company", "None of these"],
+      "correct_answer": 0
+    },
+    {
+      "id": 49,
+      "question": "Can a public company have any number of members?",
+      "options": ["Yes", "No", "Depends on the company", "None of these"],
+      "correct_answer": 0
+    },
+    {
+      "id": 50,
+      "question": "According to Para 83 of Schedule 1 of the Companies Act of Bangladesh, what happens if the places of the vacating directors are not filled up at the adjourned meeting?",
+      "options": [
+        "The vacating directors are removed from the board",
+        "The remaining directors appoint new directors",
+        "The vacating directors are deemed to have been re- elected",
+        "The meeting is adjourned to a later date"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="page-title">Select a Chapter</h1>
+
+<div class="chapter-grid">
+    {% for chapter in chapters %}
+    <div class="chapter-card">
+        <a href="/chapter/{{ chapter.slug }}" class="chapter-link">
+            <div class="chapter-icon" style="color: {{ chapter.color }}">
+                {{ chapter.icon }}
+            </div>
+            <div class="chapter-info">
+                <h3>{{ chapter.title }}</h3>
+                <p>{{ chapter.subtitle }}</p>
+            </div>
+        </a>
+        
+        <div class="chapter-actions">
+            <a href="/chapter/{{ chapter.slug }}">
+                <i class="fa-solid fa-book"></i> Read Notes
+            </a>
+            <a href="/quiz/{{ chapter.slug }}" class="btn-quiz">
+                <i class="fa-solid fa-clipboard-question"></i> Take Quiz
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,401 @@
+{
+  "chapter_id": 4,
+  "title": "Contract Act & Sale of Goods Act Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The person making the proposal is called the and the person accepting the proposal is called:",
+      "options": ["Proposer/Proposee", "Promisee/Promisor", "Promisor/Promisee", "Proposee/Proposer"],
+      "correct_answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Every promise and every set of promises, forming the consideration for each other, is called as:",
+      "options": ["A voidable contract", "A contract", "A void contract", "An agreement"],
+      "correct_answer": 3
+    },
+    {
+      "id": 3,
+      "question": "An agreement enforceable by law is:",
+      "options": ["A voidable contract", "Void", "A contract", "A void contract"],
+      "correct_answer": 2
+    },
+    {
+      "id": 4,
+      "question": "An agreement which is enforceable by law at the option of other or others is:",
+      "options": ["A contract", "A voidable contract", "Void", "A void contract"],
+      "correct_answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The Contract Act, 1872 extends to:",
+      "options": ["The Dhaka and Chittagong.", "The Union Parisad/Puroshava", "The whole of Bangladesh.", "The Capital City of Bangladesh."],
+      "correct_answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The Act which deals with the matters relating to the contract is titled as:",
+      "options": ["The Contract Act, 1972", "The Contract Act, 1872", "The Contract Act, 1882", "The Contract Act, 2014"],
+      "correct_answer": 1
+    },
+    {
+      "id": 7,
+      "question": "An agreement not enforceable by law is said to be:",
+      "options": ["A contract", "Void", "A voidable contract", "A void contract"],
+      "correct_answer": 1
+    },
+    {
+      "id": 8,
+      "question": "When the communication of a proposal is complete:",
+      "options": [
+        "When it do not comes to the knowledge of the person to whom it is made.",
+        "When it comes to the knowledge of another person that some communication was made to the concerned person.",
+        "When it comes to the knowledge of the person to whom it is not made.",
+        "When it comes to the knowledge of the person to whom it is made."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 9,
+      "question": "When an acceptance may be revoked:",
+      "options": [
+        "An acceptance may be revoked at any time before the communication of the acceptance is complete as against the proposer, but not afterwards.",
+        "An acceptance may be revoked at any time before the communication of the acceptance is complete as againstthe acceptor, but not afterwards.",
+        "An acceptance may be revoked at any time before the communication of the acceptance is incomplete as against the acceptor, but not afterwards.",
+        "An acceptance may be revoked at any time after the communication of the acceptance is complete as against the acceptor, but not afterwards."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 10,
+      "question": "In order to convert a proposal into a promise, the acceptance must:",
+      "options": [
+        "Be absolute and qualified.",
+        "Be expressed in some usual and reasonable manner, unless the proposal prescribes the manner in which it is to be accepted.",
+        "Be absolute and unqualified",
+        "Both B and C only."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 11,
+      "question": "When a proposal may be revoked:",
+      "options": [
+        "A proposal may be revoked at any time when the communication of its acceptance is complete as against the proposer, but not afterwards.",
+        "A proposal may be revoked at any time before the communication of its acceptance is incomplete as against the proposer, but not afterwards.",
+        "A proposal may be revoked at any time before the communication of its acceptance is complete as against the proposer, but not afterwards.",
+        "A proposal may be revoked at any time after the communication of its acceptance is complete as against the proposer, but not afterwards."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 12,
+      "question": "A contract which ceases to be enforceable by law becomes void when it ceases to be:",
+      "options": ["Void", "Voidable", "Enforceable", "Unenforceable"],
+      "correct_answer": 3
+    },
+    {
+      "id": 13,
+      "question": "The Indian Contract Act,1872 which was enacted on 25 April, 1872 came into force with effect from:",
+      "options": ["1st May,1872", "1st September,1872", "1st October,1872", "1st November,1872"],
+      "correct_answer": 1
+    },
+    {
+      "id": 14,
+      "question": "A'proposal' is defined as:",
+      "options": [
+        "When one person signifies to another his willingness to do or to abstain from doing anything, with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal.",
+        "When one person signifies to another his willingness to do, with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal.",
+        "When one person signifies to another his willingness to do or to abstain from doing anything, he is said to make a proposal.",
+        "When one person signifies to many persons his willingness to do or to abstain from doing anything, with a view to obtaining the assent of that other to such act or abstinence, he is said to make a proposal."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 15,
+      "question": "An agreement was entered into with the minor. This is agreement is:",
+      "options": ["Void", "Voidable", "Bad", "Illegal"],
+      "correct_answer": 0
+    },
+    {
+      "id": 16,
+      "question": "Where a minor has entered into a contract for purchase of necessary items. In such cases:",
+      "options": ["The minor is not personally liable.", "Minor's estates are liable to make good.", "Minor's guardian is liable.", "The minor is personally liable"],
+      "correct_answer": 0
+    },
+    {
+      "id": 17,
+      "question": "Consent is defined as:",
+      "options": [
+        "Two or more persons are said to consent when they agree.",
+        "Two or more persons are said to consent when they agree upon the same thing in the same sense.",
+        "Two or more persons are said to consent when they understand the same thing.",
+        "Two or more persons are said to consent when they agree upon the same thing."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Consent is said to be free when it is not caused by:",
+      "options": ["Very much influence", "Undue influence", "Slightly influence", "Influence"],
+      "correct_answer": 1
+    },
+    {
+      "id": 19,
+      "question": "A, being in debt to B, the money lender of his village, contracts a fresh loan on terms which appear to be unconscionable. This will be termed as:",
+      "options": ["Fraud", "Coercion", "Undue influence", "Misrepresentation"],
+      "correct_answer": 2
+    },
+    {
+      "id": 20,
+      "question": "When consent to an agreement is caused by coercion, fraud or misrepresentation, the agreement is a contract :",
+      "options": ["Viable at the option of the party whose consent was so cause.", "Illegal", "Depends upon the circumstances of the case.", "Void"],
+      "correct_answer": 0
+    },
+    {
+      "id": 21,
+      "question": "If the consent was caused by misrepresentation or by silence, fraudulent within the meaning of section 17, the contract, nevertheless, if the party whose consent was so caused had the means of discovering the truth with ordinary diligence:",
+      "options": ["may be voidable", "may not be not voidable", "is voidable", "is not voidable"],
+      "correct_answer": 3
+    },
+    {
+      "id": 22,
+      "question": "A fraud or misrepresentation which did not cause the consent to a contract of the party on whom such fraud was practised, or to whom such misrepresentation was made, does not render a contract:",
+      "options": ["Void", "Voidable", "Bad", "Illegal"],
+      "correct_answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Where both the parties to any agreement are under a mistake as to a matter of fact essential to the agreement,",
+      "options": [
+        "The agreement is voidable.",
+        "The agreement can't be enforceable at law.",
+        "The agreement is void.",
+        "The agreement is not void."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 24,
+      "question": "When consent to an agreement is caused by undue influence, the agreement is a contract",
+      "options": ["Bad", "Void", "Illegal", "Voadable at the option of the party whose consent was so cause"],
+      "correct_answer": 3
+    },
+    {
+      "id": 25,
+      "question": "What is a sound mind for the purposes of contracting:",
+      "options": [
+        "A person is said to be of sound mind for the purposes of making a contract, if, at the time when he makes it, he is capable of understanding it and of forming a rational judgement as to its effect upon his interest.",
+        "A person is said to be of sound mind for the purposes of making a contract, if, at the time when he makes it, he is capable of understanding it.",
+        "A person is said to be of sound mind for the purposes of making a contract, if, he is capable of understanding it and of forming a rational judgement as to its effect upon his interest.",
+        "A person is said to be of sound mind for the purposes of making a contract, if, at any time when he makes it, he is capable of understanding it and of forming a rational judgement as to its effect upon his interest."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 26,
+      "question": "Who are competent to contract:",
+      "options": [
+        "Every person is competent to contract who is of the age of majority according to the law to which he is subject, and who is of sound mind and is not disqualified from contracting by any law to which he is subject.",
+        "Every person is competent to contract who is of the any age and who is of sound mind and is not disqualified from contracting by any law to which he is subject.",
+        "Every person is competent to contract who is of the age of majority according to the law to which he is subject.",
+        "Every person is competent to contract who is of the age of majority according to the law to whichhe is subject, and who is of sound mind."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 27,
+      "question": "What agreements are contracts:",
+      "options": [
+        "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.",
+        "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and may or may not be expressly declared to be void.",
+        "All agreements are contracts if they are made by the consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.",
+        "All agreements are contracts if they are made by the free consent of parties competent to contract, for any object, and are not hereby expressly declared to be void."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 28,
+      "question": "Every agreement by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary tribunals, or which limits the time within which he may thus enforce his rights:",
+      "options": ["Is valid.", "Is voidable", "Is void.", "Is illegal"],
+      "correct_answer": 2
+    },
+    {
+      "id": 29,
+      "question": "The agreements which are in restraint of trade are;",
+      "options": ["Valid", "Illegal", "Void", "Voidable"],
+      "correct_answer": 2
+    },
+    {
+      "id": 30,
+      "question": "The consideration must be:",
+      "options": ["Adequate", "Must be adequate", "Need not be adequate", "Substantially adequate"],
+      "correct_answer": 2
+    },
+    {
+      "id": 31,
+      "question": "An agreement in restraint of the marriage of a major persons is:",
+      "options": ["Legal", "Illegal", "Void", "Voidable"],
+      "correct_answer": 2
+    },
+    {
+      "id": 32,
+      "question": "If any part of a single consideration for one or more objects, or any one or any part of any one of several considerations for a single object, is unlawful:",
+      "options": [
+        "The agreement is void",
+        "The agreement is voidable",
+        "The agreement is enforceable",
+        "The agreement is unenforceable"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 33,
+      "question": "A contract is not voidable because it was caused by a mistake as to any law in force in India; but mistake as to a law not in force in India has the same effect as:",
+      "options": ["A mistake of case", "A mistake of fact", "A mistake of law", "A mistake of understanding"],
+      "correct_answer": 1
+    },
+    {
+      "id": 34,
+      "question": "A contract is not voidable merely because it was caused by one of the parties to it being under a mistake as to:",
+      "options": ["A mistake of fact", "A mistake of law", "A mistake of case", "A mistake of understanding"],
+      "correct_answer": 1
+    },
+    {
+      "id": 35,
+      "question": "The consideration or object of an agreement is lawful, unless:",
+      "options": [
+        "The Court regards it as immoral, or opposed to public policy.",
+        "It is forbidden by law or Is of such a nature that, if permitted, it would defeat the provisions of any law.",
+        "Is fraudulent or involves or implies injury to the person or property of another.",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 36,
+      "question": "An erroneous opinion as to the value of the things which forms the subject-matter of the agreement, is not to be deemed:",
+      "options": [
+        "A mistake as to a matter of law",
+        "A mistake as to a matter of fact",
+        "A mistake of circumstances",
+        "A mistake of nature of transactions"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 37,
+      "question": "A and B make a contract grounded on the erroneous belief that a particular debt is barred by the Indian Law of Limitation:",
+      "options": ["The contract illegal", "The contract is not voidable", "The contract is voidable", "The contract is void"],
+      "correct_answer": 1
+    },
+    {
+      "id": 38,
+      "question": "The consideration may be:",
+      "options": ["Past", "Present", "Future", "All the options are correct."],
+      "correct_answer": 3
+    },
+    {
+      "id": 39,
+      "question": "A'contingent contract' is a contract to do or not to do something, if some event collateral to such contract:",
+      "options": ["Happened or will not happen", "Does or does not happen", "May or may not happen", "None of the above"],
+      "correct_answer": 1
+    },
+    {
+      "id": 40,
+      "question": "If the event becomes impossible, such contracts becomes:",
+      "options": ["Illegal", "Bad", "Void", "Voidable"],
+      "correct_answer": 2
+    },
+    {
+      "id": 41,
+      "question": "Which one of the following statements is incorrect?",
+      "options": [
+        "An agency relationship may be created through necessity.",
+        "An agency relationship may be created through estoppel.",
+        "All agents are entitled to be paid for their services.",
+        "An agent creates a legal relationship between a third party and a principal."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 42,
+      "question": "An agency relationship which is made retrospectively is know as an agency by:",
+      "options": ["Estoppel", "Ratification", "Necessity", "Commerce"],
+      "correct_answer": 1
+    },
+    {
+      "id": 43,
+      "question": "X Ltd has two directors, Joe and Harry. Neither of the directors have authority to individually enter contracts on behalf of the company. In practice, Joe (with Harry's acquiescence) enters into all the contracts on behalf of the company. What type of agency has been created when a third party acting in good faith enters into a contract with Joe who states he is acting on behalf of X Ltd?",
+      "options": ["An express agency", "An agency by estoppel", "An agency by ratification", "An agency of necessity"],
+      "correct_answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Con appoints George, to act as his agent for two weeks. George agrees to act without payment. Con instructs George to collect rent each Friday morning from his tenants and pay the rent into the bank next door. In the second week, George collects the rent but fails to bank it. On the way home he leaves it on the bus and it is never recovered. Can Con take action against George for breach of his agency duties?",
+      "options": [
+        "No, Con has provided no consideration and therefore there is no agency agreement.",
+        "No, George is a gratuitous agent and has no duty to follow instructions.",
+        "Yes, even though George is a gratuitous agent if he does act he must do so in accordance with instructions set out by the principal.",
+        "Yes, provided he pays George for being an agent."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Prab asked her agent, Hari to purchase her 500 shares in X Ltd. Hari owned 600 shares in X Ltd so without informing Prab where the shares come from he sells his shares to Prab at market value. Is Hari in breach of his agency duties?",
+      "options": [
+        "Yes, because he has a duty to avoid a conflict of interest.",
+        "Yes, because he has a duty to account.",
+        "No, because he has sold Prab the shares at market value.",
+        "No, because he has acted according to Prab's instructions and she has the shares as she requested."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 46,
+      "question": "When does apparent (ostensible) authority of an agent arise?",
+      "options": [
+        "When the agent acts with the usual authority of his job.",
+        "When the principal gives the agent implied authority to act.",
+        "When the agent has actual authority to act.",
+        "When the principal represents to a third party that an agent has authority to act when in fact he does not."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 47,
+      "question": "Which one of the following is not a duty of an agent?",
+      "options": ["Duty to exercise care and skill", "Duty to take a commission", "Duty to account", "Duty to avoid a conflict of interest"],
+      "correct_answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Frank enters into a contract with Sally believing that Sally is acting on her own behalf when in fact she is acting as an agent for Derek on his express instructions. In the event of a breach of contract who can Frank take action against?",
+      "options": ["No-one, the contract is invalid", "Sally", "Derek", "Derek or Sally"],
+      "correct_answer": 1
+    },
+    {
+      "id": 49,
+      "question": "What is an undisclosed agency?",
+      "options": [
+        "Where a third party is not informed of the existence of the principal and believes the agent is acting on his own behalf.",
+        "Where the agent indicates through conduct he is acting as an agent.",
+        "Where the principal is not in existence.",
+        "Where the third party knows there is a principal but does not know his name."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 50,
+      "question": "Which of the following statements is incorrect?",
+      "options": [
+        "An agency may be terminated by death of either party.",
+        "An agency may be terminated by express agreement.",
+        "An agency agreement can always be terminated by a principal.",
+        "Mental incapacity of an agent will terminate the agency relationship."
+      ],
+      "correct_answer": 2
+    }
+  ]
+}

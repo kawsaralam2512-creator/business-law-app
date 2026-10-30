@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="chapter-header" style="border-bottom: 3px solid {{ chapter.color }}">
+    <h1>{{ chapter.icon }} {{ chapter.title }}</h1>
+    <p>{{ chapter.subtitle }}</p>
+</div>
+
+<div class="sections-list">
+    {% for section in sections %}
+    <!-- প্রতিটি সেকশনের একটি আইডি (id) দেওয়া হলো যাতে সার্চ থেকে সরাসরি এখানে লিংক করা যায় -->
+    <div class="section-card" id="section-{{ section.id }}">
+        <h2>Section {{ section.id }}: {{ section.heading }}</h2>
+        <p>{{ section.content }}</p>
+    </div>
+    {% endfor %}
+</div>
+
+<!-- স্ক্রিপ্ট: সার্চ থেকে ক্লিক করলে সংশ্লিষ্ট সেকশনটি হাইলাইট করবে -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        if (window.location.hash) {
+            const targetElement = document.querySelector(window.location.hash);
+            if (targetElement) {
+                // সাময়িকভাবে সেকশনটির ব্যাকগ্রাউন্ড ও বর্ডার হাইলাইট করা
+                targetElement.style.transition = "all 0.5s ease";
+                targetElement.style.backgroundColor = "#f0fdfa"; // হালকা সবুজ/টিয়াল কালার
+                targetElement.style.border = "2px solid #14b8a6";
+                targetElement.style.boxShadow = "0 4px 12px rgba(20, 184, 166, 0.2)";
+                targetElement.style.transform = "scale(1.01)"; // হালকা জুম ইফেক্ট
+                
+                // স্ক্রল করে সেকশনটির কাছে নিয়ে যাওয়া
+                targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+                // ৩ সেকেন্ড (৩০০০ মিলি সেকেন্ড) পর আগের অবস্থায় ফিরে যাবে
+                setTimeout(() => {
+                    targetElement.style.backgroundColor = "var(--surface-color)";
+                    targetElement.style.border = "1px solid var(--border-color)";
+                    targetElement.style.boxShadow = "var(--shadow-sm)";
+                    targetElement.style.transform = "scale(1)";
+                }, 3000);
+            }
+        }
+    });
+</script>
+{% endblock %}

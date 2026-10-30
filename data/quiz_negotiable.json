@@ -1,0 +1,391 @@
+{
+  "chapter_id": 2,
+  "title": "The Negotiable Instruments Act, 1881 Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Negotiable Instruments Act, 1881 is an Act to define and amend the law relating to:",
+      "options": ["cheques", "bills of exchange", "promissory notes,", "All of the above"],
+      "correct_answer": 3
+    },
+    {
+      "id": 2,
+      "question": "\"banker\" includes:",
+      "options": [
+        "Any person acting as an employee of any bank and any post office saving bank.",
+        "Any person acting as a banker and any post office saving bank.",
+        "Any person acting as an agent of any bank and any post office saving bank.",
+        "Any person acting as a Managing Director of any bank and any post office saving bank"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which is NOT an example of \"Promissory Note\":",
+      "options": [
+        "\"I acknowledge myself to be indebted to B in tk. 1,000, to be paid on demand, for value received.\"",
+        "Mr B, I.O.U tk. 1,000.\"",
+        "\"I promise to pay B or order tk. 500\".",
+        "None of the above."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 4,
+      "question": "In a Promissory Note, how many parties are involved:",
+      "options": ["One", "Two", "Three", "Four"],
+      "correct_answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which is NOT correct about the \"Promissory Note\":",
+      "options": [
+        "It contains a conditional undertaking.",
+        "It contains the amount mentioned on it.",
+        "It is an instrument in writing.",
+        "It is signed by the maker"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 6,
+      "question": "The Negotiable Instruments Act, 1881 extends to:",
+      "options": [
+        "Only to Capital cities of the States.",
+        "The whole of India.",
+        "The whole of India except the State of Jammu and Kashmir.",
+        "The whole of India except the Union Territories."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which is a \"Promissory Note\"",
+      "options": [
+        "I promise to pay B tk. 500 and to deliver to him my black horse on 1st January next.",
+        "I promise to pay B tk. 500 seven days after my marriage with C.",
+        "\"I acknowledge myself to be indebted to B in tk. 1,000, to be paid on demand, for value received.\"",
+        "I promise to pay B tk. 500 on D's death, provided D leaves me enough to pay that sum."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Section 5 of the NI Act deals with:",
+      "options": ["Bills of Exchange", "Holder in due course", "Cheque", "Promissory Note"],
+      "correct_answer": 0
+    },
+    {
+      "id": 9,
+      "question": "A 'Cheque' is a Bills of exchange and has been defined under:",
+      "options": [
+        "The Negotiable Instruments Act, 1881",
+        "The General Clauses Act, 1897",
+        "The Reserve Bank of India Act, 1934",
+        "The Banking Regulation Act, 1949"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 10,
+      "question": "In an appeal by the drawer against conviction under section 138, the Appellate Court may order the appellant to deposit such sum which shall be a minimum of or compensation awarded by the trial Court:",
+      "options": ["Ten per cent of the fine", "Fifteen per cent of the fine", "Twenty per cent of the fine", "Twenty five per cent of the fine"],
+      "correct_answer": 2
+    },
+    {
+      "id": 11,
+      "question": "The interim compensation payable under section 143 A may be recovered as if it were a fine;",
+      "options": [
+        "As if it is a decree of a court",
+        "As per the provisions of Income Tax act, 1961",
+        "As per the provisions of the Code of Criminal Procedure, 1973.",
+        "None of the above"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 12,
+      "question": "All offences under Chapter XVII shall be tried by:",
+      "options": ["A Metropolitan Magistrate", "A Judicial Magistrate of the first class", "Either A or B", "None of the above"],
+      "correct_answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which court can entertain any offence punishable under section 138:",
+      "options": [
+        "Court not inferior to that of a Judicial Magistrate of the first class.",
+        "Any court having jurisdiction may entertain such case.",
+        "Court not inferior to that of a Metropolitan Magistrate.",
+        "Options A and C are correct."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 14,
+      "question": "The liability of the drawer of a foreign bills of exchange is regulated in all essential matters by the law of the place where:",
+      "options": ["the instrument has been negotiated", "The instrument has been endorsed", "The instrument is payable.", "The instrument is made."],
+      "correct_answer": 2
+    },
+    {
+      "id": 15,
+      "question": "When a bill is said to be dishonoured:",
+      "options": [
+        "where presentment is excused and the bill is not accepted",
+        "one of several drawees makes default in acceptance upon being duly required to accept the bill.",
+        "by non-acceptance by the drawee.",
+        "All of the above."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What are the liabilities of a collecting banker:",
+      "options": [
+        "To serve notice of dishonour on the customer so that customer can claim the amount form his debtors.",
+        "To present cheque within a reasonable time else liable for damages.",
+        "To handover the proceeds after the realisation without delay.",
+        "All of the above."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Where the holder of an instrument endorses it in a manner that does not incur any liability as an endorser, such endorsement is called as:",
+      "options": ["Sans recourse Endorsement", "Conditional endorsement", "Facultative endorsement", "Restrictive Endorsement"],
+      "correct_answer": 0
+    },
+    {
+      "id": 18,
+      "question": "A promissory note, bill of exchange or cheque payable to order, is negotiable:",
+      "options": ["By endorsement and delivery thereof", "By the holder by endorsement", "By delivery thereof", "None of the above"],
+      "correct_answer": 0
+    },
+    {
+      "id": 19,
+      "question": "When the day on which a promissory note or bill of exchange is at maturity is a public holiday, the instrument shall be deemed to be due:",
+      "options": ["On the same day", "On the next preceding business day", "On the next business day", "On the next succeeding business day"],
+      "correct_answer": 2
+    },
+    {
+      "id": 20,
+      "question": "A negotiable instrument, dated 30th August, 2017, is made payable three months after date. What will be the maturity date:",
+      "options": [
+        "The instrument is at maturity on the 1 December, 2017",
+        "The instrument is at maturity on the 2nd December, 2017",
+        "The instrument is at maturity on the 3rd December, 2017",
+        "The instrument is at maturity on the 4 December, 2017"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Instrument entitled to 'period of grace' is:",
+      "options": ["a bill or note payable on demand", "a cheque", "a bill or note in which no time is mentioned", "a bill or note payable 'after sight'"],
+      "correct_answer": 3
+    },
+    {
+      "id": 22,
+      "question": "When a promissory note or bill of exchange are payable, in which no time for payment is specified:",
+      "options": ["They are payable within 3 months", "They are payable within 6 months", "They are payable on demand", "They are payable within a reasonable time"],
+      "correct_answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Where an instrument may be construed either as a promissory note or bill of exchange:",
+      "options": ["A void instrument", "A valid negotiable instrument", "It is called as ambiguous instrument", "It is called as unambiguous instrument"],
+      "correct_answer": 2
+    },
+    {
+      "id": 24,
+      "question": "When a promissory note, bill of exchange or cheque is transferred to any person, so as to constitute the person the holder thereof, the instrument is said to be:",
+      "options": ["Mortgaged", "Assigned", "Negotiated", "Pledged"],
+      "correct_answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Which section of the NI Act defines the words, 'Negotiable Instrument?",
+      "options": ["Section 15", "Section 14", "Section 13A", "Section 13"],
+      "correct_answer": 3
+    },
+    {
+      "id": 26,
+      "question": "A promissory note, bill of exchange or cheque is payable which is expressed to be so payable or on which the only or last endorsement is an endorsement in blank.",
+      "options": ["to order", "to bearer", "holder in due course", "holder"],
+      "correct_answer": 1
+    },
+    {
+      "id": 27,
+      "question": "A promissory note, bill of exchange or cheque drawn or made out of India and made payable in, or drawn upon any person resident in India shall be deemed to be:",
+      "options": ["Incomplete instrument", "Inchoate instrument", "Foreign instrument", "Inland instrument"],
+      "correct_answer": 2
+    },
+    {
+      "id": 28,
+      "question": "A Holder in due course' of a Negotiable Instrument:",
+      "options": ["Can sue on the instrument in his own name", "Can sue only if permitted by the competent court of law", "Can sue on the instrument if permitted by the payee", "Cannot sue on the instrument in his own name"],
+      "correct_answer": 0
+    },
+    {
+      "id": 29,
+      "question": "Who is entitled at the time of loss or destruction of a note, bill or cheque:",
+      "options": ["Drawee", "Drawer", "Holder", "Payee"],
+      "correct_answer": 2
+    },
+    {
+      "id": 30,
+      "question": "The \"holder\" of a promissory note, bill of exchange or cheque means:",
+      "options": [
+        "Any person entitled in his own name to the possession thereof and to receive or recover the amount due thereon from the parties Thereto",
+        "Any person entitled in his own name or his agent to the possession thereof and to receive or recover the amount due thereon from the parties thereto",
+        "Any person having the possession of such instrument and to receive or recover the amount due thereon from the parties thereto",
+        "Any person holding the physical custody of such instruments"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 31,
+      "question": "The maker of a bill of exchange or cheque is called:",
+      "options": ["The drawee", "The payee", "The drawer", "The banker"],
+      "correct_answer": 2
+    },
+    {
+      "id": 32,
+      "question": "A cheque is a drawn upon a specified banker and payable on demand:",
+      "options": ["Bill of exchange", "Hundi", "Promissory note", "None of the above"],
+      "correct_answer": 0
+    },
+    {
+      "id": 33,
+      "question": "What is NOT true about the \"bills of exchange?",
+      "options": [
+        "it is an instrument in writing",
+        "It is signed by the maker",
+        "Certain sum of money is mentioned on the instrument",
+        "It contains a conditional order"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 34,
+      "question": "The definition of 'Promissory Note' has been defined in the NI Act in:",
+      "options": ["Section 7", "Section 6", "Section 5", "Section 4"],
+      "correct_answer": 3
+    },
+    {
+      "id": 35,
+      "question": "The NI Act, 1881 came into force with effect from:",
+      "options": ["First day of April, 1882", "First day of April, 1881", "First day of March, 1882", "First day of March, 1881"],
+      "correct_answer": 0
+    },
+    {
+      "id": 36,
+      "question": "A \"promissory note\" is an instrument to pay a certain sum of money:",
+      "options": [
+        "to the order of, a certain person, or to the bearer of the instrument",
+        "To the bearer of the instrument",
+        "To the order of, a certain person",
+        "None of the above"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 37,
+      "question": "The nature of \"promissory note\" is:",
+      "options": [
+        "It contains an unconditional order to the drawee to pay the payee",
+        "It contains an unconditional promise by maker to pay the payee",
+        "It is drawn on specified banker to pay on demand",
+        "None of the above"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 38,
+      "question": "In case of \"bills of exchange\" the acceptance is:",
+      "options": ["It depends on the case to case basis", "Necessary if the bill is payable after sight.", "Not necessary", "None of the above"],
+      "correct_answer": 1
+    },
+    {
+      "id": 39,
+      "question": "How many parties are there in the Bills of Exchange:",
+      "options": ["Four", "Three", "Two", "One"],
+      "correct_answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What is NOT true about a cheque:",
+      "options": [
+        "It may contain a conditional order",
+        "Cheque must be signed by the maker",
+        "The cheque must contain the date.",
+        "The amount must be specifically mentioned in figures and words"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 41,
+      "question": "The person who is directed by the maker of a bill of exchange or cheque to pay is called the:",
+      "options": ["Payee", "Drawee", "Endorsee", "Drawer"],
+      "correct_answer": 1
+    },
+    {
+      "id": 42,
+      "question": "The person named in the instrument, to whom or to whose order the money is by the instrument directed to be paid, is called the:",
+      "options": ["Banker", "Drawee", "Drawer", "Payee"],
+      "correct_answer": 3
+    },
+    {
+      "id": 43,
+      "question": "A Holder in due course is a person who becomes the possessor of the instrument.",
+      "options": ["before maturity", "for consideration", "without any notice as to the defect in title of the Transferor", "all of the above"],
+      "correct_answer": 3
+    },
+    {
+      "id": 44,
+      "question": "Inland instrument means:",
+      "options": [
+        "A promissory note, bill of exchange or cheque drawn or made in India and made payable in or drawn upon any person resident in, India shall be deemed to be an inland instrument.",
+        "A promissory note, bill of exchange or cheque drawn or made in India and made payable in or drawn upon any person resident outside India shall be deemed to be an inland instrument.",
+        "A promissory note, bill of exchange or cheque drawn or made outside India and made payable in, or drawn upon any person resident in, India shall be deemed to be an inland instrument.",
+        "None of the above."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 45,
+      "question": "A \"negotiable instrument\" means:",
+      "options": ["cheque payable either to order or to bearer.", "bill of exchange", "a promissory note", "all the options are correct"],
+      "correct_answer": 3
+    },
+    {
+      "id": 46,
+      "question": "Whether a negotiable instrument may be made payable:",
+      "options": ["In the alternative to one of two", "To one or some of several payees", "To two or more payees jointly", "All the options are correct"],
+      "correct_answer": 3
+    },
+    {
+      "id": 47,
+      "question": "Which among the following is a negotiable instrument:",
+      "options": ["Banker's Demand Draft", "Currency note", "Letter of Credit", "Letter of guarantee"],
+      "correct_answer": 0
+    },
+    {
+      "id": 48,
+      "question": "Where the endorser signs his name on the back of the instrument only, the endorsement is said to be:",
+      "options": ["In full", "In blank", "Facultative endorsement", "Conditional endorsement"],
+      "correct_answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Not with standing anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), every offence punishable under the NI Act shall be:",
+      "options": ["Non-compoundable", "Compoundable", "Non-bailable", "Bailable"],
+      "correct_answer": 0
+    },
+    {
+      "id": 50,
+      "question": "The interim- compensation shall be paid within from the date of the order or within such further period not exceeding thirty days as may be directed by the Court on sufficient cause being shown by the drawer of the cheque:",
+      "options": ["Sixty days", "Fifty days", "Forty days", "Thirty days"],
+      "correct_answer": 3
+    }
+  ]
+}
