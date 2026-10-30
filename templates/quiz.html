@@ -8,19 +8,13 @@
 
 <div class="quiz-container">
     <form id="quizForm">
-        <!-- বাইরের লুপ -->
         {% for q in questions %}
-        
-        <!-- এখানে outer_loop তৈরি করা হলো যাতে ভেতরের লুপে নাম (name) আলাদা করা যায় -->
         {% set outer_loop = loop %}
-        
         <div class="section-card question-card" style="margin-bottom: 1.5rem;" id="q-{{ outer_loop.index }}">
             <h3 style="margin-bottom: 1rem; font-size: 1.1rem;">{{ outer_loop.index }}. {{ q.question }}</h3>
             <div class="options">
-                <!-- ভেতরের লুপ -->
                 {% for option in q.options %}
                 <label class="option-label">
-                    <!-- এখানে outer_loop.index ব্যবহার করা হয়েছে -->
                     <input type="radio" name="q{{ outer_loop.index }}" value="{{ loop.index0 }}" data-correct="{{ q.correct_answer == loop.index0 }}">
                     {{ option }}
                 </label>
@@ -29,11 +23,11 @@
         </div>
         {% endfor %}
         
-        <button type="button" class="btn btn-read" style="width: 100%; padding: 1rem; font-size: 1.1rem; margin-top: 1rem; border: none; cursor: pointer;" onclick="submitQuiz()">Submit Answers</button>
+        <button type="button" class="btn btn-read" id="submitBtn" style="width: 100%; padding: 1rem; font-size: 1.1rem; margin-top: 1rem; border: none; cursor: pointer;" onclick="submitQuiz()">Submit Answers</button>
     </form>
     
     <div id="result" style="display:none; margin-top: 2rem; padding: 1.5rem; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center;">
-        <h2 style="color: var(--primary);">Your Score: <span id="score">0</span> / {{ questions|length }}</h2>
+        <h2 style="color: var(--primary-color);">Your Score: <span id="score">0</span> / {{ questions|length }}</h2>
         <p style="margin-top: 1rem;">Check the highlighted options to see correct/incorrect answers.</p>
         <button class="btn btn-read" style="margin-top: 1rem; border: none; cursor: pointer;" onclick="location.reload()">Try Again</button>
     </div>
@@ -45,17 +39,13 @@ function submitQuiz() {
     const totalQuestions = {{ questions|length }};
     const answeredQuestions = form.querySelectorAll('input[type="radio"]:checked').length;
 
-    // Warning if not all questions are answered
     if (answeredQuestions < totalQuestions) {
         const confirmSubmit = confirm(`You have answered ${answeredQuestions} out of ${totalQuestions} questions. Do you want to submit anyway?`);
-        if (!confirmSubmit) {
-            return; // Stop submission if user clicks Cancel
-        }
+        if (!confirmSubmit) { return; }
     }
 
     let score = 0;
     
-    // Reset all options styling
     form.querySelectorAll('.option-label').forEach(label => {
         label.style.backgroundColor = 'transparent';
         label.style.borderColor = 'var(--border-color)';
@@ -63,7 +53,6 @@ function submitQuiz() {
         label.style.fontWeight = 'normal';
     });
 
-    // Calculate score and highlight
     form.querySelectorAll('input[type="radio"]:checked').forEach(radio => {
         const label = radio.parentElement;
         if (radio.dataset.correct === 'true') {
@@ -79,7 +68,6 @@ function submitQuiz() {
         }
     });
 
-    // Highlight correct answers for unchecked ones
     form.querySelectorAll('input[type="radio"]:not(:checked)').forEach(radio => {
         if (radio.dataset.correct === 'true') {
             radio.parentElement.style.backgroundColor = '#e8f5e9';
@@ -90,39 +78,8 @@ function submitQuiz() {
 
     document.getElementById('score').innerText = score;
     document.getElementById('result').style.display = 'block';
-    document.querySelector('.submit-btn').style.display = 'none';
+    document.getElementById('submitBtn').style.display = 'none';
     
-    // Scroll to result
-    document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
-}
-</script>
-    // Calculate score and highlight
-    form.querySelectorAll('input[type="radio"]:checked').forEach(radio => {
-        const label = radio.parentElement;
-        if (radio.dataset.correct === 'true') {
-            score++;
-            label.style.backgroundColor = '#e8f5e9';
-            label.style.color = '#2e7d32';
-            label.style.fontWeight = 'bold';
-        } else {
-            label.style.backgroundColor = '#ffebee';
-            label.style.color = '#c62828';
-        }
-    });
-
-    // Highlight correct answers for unchecked ones
-    form.querySelectorAll('input[type="radio"]:not(:checked)').forEach(radio => {
-        if (radio.dataset.correct === 'true') {
-            radio.parentElement.style.backgroundColor = '#e8f5e9';
-            radio.parentElement.style.color = '#2e7d32';
-        }
-    });
-
-    document.getElementById('score').innerText = score;
-    document.getElementById('result').style.display = 'block';
-    document.querySelector('button[type="button"]').style.display = 'none';
-    
-    // Scroll to result
     document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
 }
 </script>
