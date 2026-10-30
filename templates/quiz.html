@@ -15,7 +15,7 @@
             <div class="options">
                 {% for option in q.options %}
                 <label class="option-label">
-                    <input type="radio" name="q{{ outer_loop.index }}" value="{{ loop.index0 }}" data-correct="{{ q.correct_answer == loop.index0 }}">
+                    <input type="radio" name="q{{ outer_loop.index }}" value="{{ loop.index0 }}" data-correct="{{ q.correct_answer|string == loop.index0|string }}">
                     {{ option }}
                 </label>
                 {% endfor %}
@@ -46,6 +46,7 @@ function submitQuiz() {
 
     let score = 0;
     
+    // Reset all options styling
     form.querySelectorAll('.option-label').forEach(label => {
         label.style.backgroundColor = 'transparent';
         label.style.borderColor = 'var(--border-color)';
@@ -53,6 +54,7 @@ function submitQuiz() {
         label.style.fontWeight = 'normal';
     });
 
+    // Calculate score and highlight
     form.querySelectorAll('input[type="radio"]:checked').forEach(radio => {
         const label = radio.parentElement;
         if (radio.dataset.correct === 'true') {
@@ -68,6 +70,7 @@ function submitQuiz() {
         }
     });
 
+    // Highlight correct answers for unchecked ones
     form.querySelectorAll('input[type="radio"]:not(:checked)').forEach(radio => {
         if (radio.dataset.correct === 'true') {
             radio.parentElement.style.backgroundColor = '#e8f5e9';
@@ -80,6 +83,7 @@ function submitQuiz() {
     document.getElementById('result').style.display = 'block';
     document.getElementById('submitBtn').style.display = 'none';
     
+    // Scroll to result
     document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
 }
 </script>
