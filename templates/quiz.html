@@ -3,6 +3,7 @@
 {% block content %}
 <div class="chapter-header" style="border-bottom: 3px solid {{ chapter.color }}">
     <h1>📝 Quiz: {{ chapter.title }}</h1>
+    
     <p>Test your knowledge based on the chapter</p>
 </div>
 
@@ -15,7 +16,8 @@
             <div class="options">
                 {% for option in q.options %}
                 <label class="option-label">
-                    <input type="radio" name="q{{ outer_loop.index }}" value="{{ loop.index0 }}" data-correct="{{ q.correct_answer|string == loop.index0|string }}">
+                    <!-- এখানে data-correct এর মান স্ট্রিং হিসেবে পাস করা হচ্ছে -->
+                    <input type="radio" name="q{{ outer_loop.index }}" value="{{ loop.index0 }}" data-correct="{% if q.correct_answer == loop.index0 %}true{% else %}false{% endif %}">
                     {{ option }}
                 </label>
                 {% endfor %}
@@ -39,6 +41,7 @@ function submitQuiz() {
     const totalQuestions = {{ questions|length }};
     const answeredQuestions = form.querySelectorAll('input[type="radio"]:checked').length;
 
+    // ইউজার সব প্রশ্নের উত্তর না দিলে সতর্কবার্তা
     if (answeredQuestions < totalQuestions) {
         const confirmSubmit = confirm(`You have answered ${answeredQuestions} out of ${totalQuestions} questions. Do you want to submit anyway?`);
         if (!confirmSubmit) { return; }
@@ -46,7 +49,7 @@ function submitQuiz() {
 
     let score = 0;
     
-    // Reset all options styling
+    // ১. আগের সব স্টাইল রিসেট করা
     form.querySelectorAll('.option-label').forEach(label => {
         label.style.backgroundColor = 'transparent';
         label.style.borderColor = 'var(--border-color)';
@@ -54,10 +57,11 @@ function submitQuiz() {
         label.style.fontWeight = 'normal';
     });
 
-    // Calculate score and highlight
+    // ২. ইউজার যে অপশনগুলো সিলেক্ট করেছে, সেগুলো চেক করা
     form.querySelectorAll('input[type="radio"]:checked').forEach(radio => {
         const label = radio.parentElement;
-        if (radio.dataset.correct === 'true') {
+        // এখানে চেক করা হচ্ছে data-correct এর মান 'true' কি না
+        if (radio.getAttribute('data-correct') === 'true') {
             score++;
             label.style.backgroundColor = '#e8f5e9';
             label.style.borderColor = '#2e7d32';
@@ -70,20 +74,21 @@ function submitQuiz() {
         }
     });
 
-    // Highlight correct answers for unchecked ones
+    // ৩. ইউজার যে প্রশ্নের উত্তর দেয়নি, তার সঠিক উত্তরটি সবুজ করে দেখানো
     form.querySelectorAll('input[type="radio"]:not(:checked)').forEach(radio => {
-        if (radio.dataset.correct === 'true') {
+        if (radio.getAttribute('data-correct') === 'true') {
             radio.parentElement.style.backgroundColor = '#e8f5e9';
             radio.parentElement.style.borderColor = '#2e7d32';
             radio.parentElement.style.color = '#1b5e20';
         }
     });
 
+    // ৪. স্কোর আপডেট এবং রেজাল্ট দেখানো
     document.getElementById('score').innerText = score;
     document.getElementById('result').style.display = 'block';
     document.getElementById('submitBtn').style.display = 'none';
     
-    // Scroll to result
+    // রেজাল্টে স্ক্রল করা
     document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
 }
 </script>
